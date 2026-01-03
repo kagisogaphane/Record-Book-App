@@ -74,7 +74,3 @@ RecordBookApp/
 Contributions are welcome!  
 Feel free to fork the repo, open issues, or submit pull requests.
 
-
-✨ This README gives your project a professional presentation, highlights your use of **MVVM and commands**, and sets the stage for future improvements.  
-
-Would you like me to also create a **step-by-step usage example with screenshots placeholders** so that users can visually follow how to add and search records?
